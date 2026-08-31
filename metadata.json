@@ -1,0 +1,6 @@
+{
+  "name": "Resync",
+  "description": "AI-powered manuscript coherence checker for students writing research or capstone papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
